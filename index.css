@@ -110,17 +110,14 @@ h2 {
     border: 0;
     gap: 0;
 }
-
 .contact .Name, .Email, .Number, .Opinion {
     margin-bottom: 1rem;
 }
-
 button {
     padding: 0.5rem 1rem;
     background-color: greenyellow;
     border-radius: 20px;
 }
-
 footer {
     background-color: blue;
     color: white;
@@ -131,7 +128,6 @@ footer {
     nav ul{
         flex-direction: column;
     }
-
 h1 {
 font-size: 1.5rem;
 }
